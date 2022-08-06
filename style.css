@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+    background-image: url(p/photo-1475274047050-1d0c0975c63e.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+}
+
+#container {
+    margin-top: 10%;
+    font-size: 50px;
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(224, 224, 224);
+    border-radius: 100%;
+    width: 30%;
+    height: 250px;
+    background-color: rgb(224, 224, 224);
+    padding-top: 10%;
+    margin-left: 35%;
+    box-shadow: 0px 0px 50px rgb(224, 224, 224);
+}
+
+button {
+    
+    margin-top: 40px;
+    border-radius: 50%;
+    height: 30%;
+    width: auto;
+    box-shadow: 0px 0px 20px black;
+    cursor: pointer;
+}
+.b{
+    width: 18%;
+}

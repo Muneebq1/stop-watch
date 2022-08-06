@@ -8,8 +8,8 @@ let setIntervalId =
      }
 
     document.querySelector("#stopwatch").innerText =
-moment(today).format('H:mm:ss: SSS');
-}, 40);
+moment(today).format('H:mm:ss: SS');
+}, 43);
 
 function pause() {
 isPause = !isPause ;
